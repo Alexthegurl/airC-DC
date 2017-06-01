@@ -5,6 +5,7 @@ Air guitar comes to life! Along with bass guitar, piano, drum set, gong, and a t
 ## Deployment
 
 We are deployed on Heroku! Just visit https://lit-mesa-76346.herokuapp.com/ to start playing.
+Example of how guitar and bass are played: https://youtu.be/KNmEqAFVutk
 
 ## Best Practices
 To play guitar and bass- it is best to use lime green to trigger the notes and strum. 
