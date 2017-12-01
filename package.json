@@ -16,18 +16,5 @@
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
-  },
-  "description": "Air guitar comes to life! Along with bass guitar, piano, drum set, gong, and a two DJ sets to play with.",
-  "main": "app.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/originaloregano/airC-DC.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/originaloregano/airC-DC/issues"
-  },
-  "homepage": "https://github.com/originaloregano/airC-DC#readme"
+  }
 }
