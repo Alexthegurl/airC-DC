@@ -19,8 +19,8 @@ To play guitar and bass- it is best to use lime green to trigger the notes and s
 * [Node.js](https://nodejs.org/en/docs/) - server side javascript environment
 
 ## Helpful Resources for this project
-- * Romuald Quantin [JavaScript motion detection](http://www.adobe.com/devnet/archive/html5/articles/javascript-motion-detection.html)
-- * Webcam-Motion-Detection.html [stemkoski](https://github.com/stemkoski/stemkoski.github.com/blob/master/Three.js/Webcam-Motion-Detection.html)
+- Romuald Quantin [JavaScript motion detection](http://www.adobe.com/devnet/archive/html5/articles/javascript-motion-detection.html)
+- Webcam-Motion-Detection.html [stemkoski](https://github.com/stemkoski/stemkoski.github.com/blob/master/Three.js/Webcam-Motion-Detection.html)
 
 
 ## Authors
@@ -36,5 +36,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thank you to Dev Bootcamp, who taught us everything we know about being a developer. And thank you to our family and friends, for allowing us to fall off the face of the earth during our time at DBC to pursue new careers in web development. Thank you for your support!
+Thank you to Dev Bootcamp, who taught us everything we know about being a developer. And thank you to our family and friends, for allowing us to fall off the face of the earth during our time at DBC to pursue new careers in web development. Thank you for your support!
 
