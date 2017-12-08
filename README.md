@@ -4,7 +4,7 @@ Air guitar comes to life! Along with bass guitar, piano, drum set, gong, and a t
 
 ## Deployment
 
-We are deployed on Heroku! Just visit https://lit-mesa-76346.herokuapp.com/ to start playing.
+Currently only works locally. Clone the repo onto your local machine, cd into repo, run "npm start" and go to localhost:3000 to play!
 Example of how guitar and bass are played: https://youtu.be/KNmEqAFVutk
 
 Final presentations on graduation: https://vimeo.com/216882684/dd0a2f1f2e
