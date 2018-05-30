@@ -4,7 +4,13 @@ Air guitar comes to life! Along with bass guitar, piano, drum set, gong, and a t
 
 ## Deployment
 
-Currently only works locally. Clone the repo onto your local machine, cd into repo, run "npm start" and go to localhost:3000 to play!
+Currently only works locally. 
+* Clone the repo onto your local machine
+* cd into repo
+* run "npm start"
+* go to localhost:3000
+* Play AIR GUITAR!
+
 Example of how guitar and bass are played: https://youtu.be/KNmEqAFVutk
 
 Final presentations on graduation: https://vimeo.com/216882684/dd0a2f1f2e
@@ -27,7 +33,7 @@ To play guitar and bass- it is best to use lime green to trigger the notes and s
 
 - **Brendan White: [brendanjwk](https://github.com/brendanjwh), [LinkedIn](https://www.linkedin.com/in/brendan-white-3b14b827)**
 - **Chris Frazzini: [CFrazz25](https://github.com/CFrazz25), [LinkedIn](https://www.linkedin.com/in/christopher-frazzini-12196642)**
-- **Alex Origitano: [Alexthegurl](https://github.com/Alexthegurl), [LinkedIn](https://www.linkedin.com/in/alex-origitano-8abb534b)**
+- **Alex Origitano: [originaloregano](https://github.com/originaloregano), [LinkedIn](https://www.linkedin.com/in/alex-origitano)**
 - **Derek Georgevich: [DGeorgevich](https://github.com/DGeorgevich),[LinkedIn](https://www.linkedin.com/in/derekgeorgevich)**
 
 ## License
